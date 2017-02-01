@@ -19,7 +19,7 @@
 		<header id="header">
 			<nav class="navbar">
             <div class="logo">
-                <h3>Binary</h3>
+                <h3>NICOLAS</h3>
             </div>
             <div class="botao">
             	<input type="checkbox" id="navicon">
@@ -36,7 +36,7 @@
 			<div id="head">
 				<div class="titulo">
 					<h1>This is Binary, a free and fully responsive
-					website template by TEMPLATED</h1>
+					website template by NICOLAS</h1>
 					<a href="">Continue</a>
 				</div>
 			</div>
